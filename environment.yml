@@ -1,0 +1,13 @@
+name: hongdae-ml-study
+
+dependencies:
+- python=3.5
+- ipython
+- jupyter
+- scikit-learn
+- scipy
+- numpy
+- matplotlib
+- pip:
+  - watermark
+  - tensorflow
